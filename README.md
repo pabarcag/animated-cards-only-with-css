@@ -7,4 +7,4 @@ The cards are made with grid and also have their responsive version.
 
 Live page:
 
-https://patosinsuerte.github.io/animated-cards-only-with-css/
+https://pabarcag.github.io/animated-cards-only-with-css/
